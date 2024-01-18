@@ -1,84 +1,69 @@
 {
     "basics": {
-        "name": "Mark Tan",
+        "name": "PREM KUMAR",
         "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
-        "phone": "(XXX) XXX-XXXX",
+        "email": "havocprem123@gmail.com",
+        "phone": "9344601858",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
         "job1": "Web",
         "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
-        "summary": "based in Angeles, Philippines.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
+        "description": "Hello! I'm Prem! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in india,tamilnadu,madurai.",
+        "keywords": "personal,website,portfolio,template,",
+        "url": "xxx",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "city": "Madurai",
+            "country": "India",
+            "countryCode": "+91",
+            "region": "xxxx"
         },
         "profiles": [
-            {
-                "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
-                "x_icon": "fab fa-google"
-            },
+           
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "K.Prem Kumar",
+                "url": "https://www.linkedin.com/in/k-prem-kumar-019858271/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "premkumar1809",
+                "url": "https://github.com/premkumar1809",
                 "x_icon": "fab fa-github"
             },
-            {
-                "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
-                "x_icon": "fab fa-gitlab"
-            },
+          
             {
                 "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
+                "username": "@Havoc1234",
+                "url": "https://t.me/@Havoc1234",
                 "x_icon": "fab fa-telegram-plane"
-            },
-            {
-                "network": "Discord",
-                "username": "taniyow#9142",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
             }
+           
         ]
     },
     "work": [
         {
             "company": "Company",
-            "position": "President",
+            "position": "xxx",
             "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
+            "startDate": "xxx",
+            "endDate": "xxx",
             "summary": "Description...",
             "highlights": ["Started the company"]
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
+            "organization": "xxx",
+            "position": "xxx",
             "website": "http://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
+            "startDate": "xxx",
+            "endDate": "xxx",
             "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "highlights": ["xxxxxxxx"]
         }
     ],
     "education": [
@@ -112,34 +97,24 @@
     "skills": [
         {
             "name": "Web Development",
-            "level": "Master",
+            "level": "Beginner",
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
     "languages": [
         {
-            "language": "German",
+            "language": "Tamil",
             "fluency": "Native speaker"
         },
         {
             "language": "English",
-            "fluency": "Fluent speaker"
-        },
-        {
-            "language": "French",
             "fluency": "Good knowledge"
         }
     ],
     "interests": [
         {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference..."
+            "name": "Content Creation",
+            "keywords": ["memes", "editing"]
         }
     ]
 }

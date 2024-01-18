@@ -36,7 +36,7 @@ export const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_8bezxog', 'template_jmsk313', form.current, 'knwNTK4YU4K30HYMd')
+    emailjs.sendForm('service_xled76t', 'template_e5rno9e', form.current, 'cGdctZA9C_3U02T3G')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
